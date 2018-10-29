@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.vw.imageprocessing.property.FileStorageProperties",
+      "name": "file",
+      "type": "com.vw.imageprocessing.property.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.vw.imageprocessing.property.FileStorageProperties",
+      "name": "file.upload-dir",
+      "type": "java.lang.String"
+    }
+  ]
+}

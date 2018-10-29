@@ -1,0 +1,9 @@
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/model/DBFile.java
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/property/FileStorageProperties.java
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/payload/UploadFileResponse.java
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/service/DBFileStorageService.java
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/exception/FileStorageException.java
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/exception/MyFileNotFoundException.java
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/ImageProcessingApplication.java
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/repository/DBFileRepository.java
+/Users/anandperumallu/Documents/vw-poc-cloud/image-processing/src/main/java/com/vw/imageprocessing/controller/FileController.java
